@@ -10,6 +10,8 @@ public class IfExample {
             System.out.println("hitler good");
         }
 
+        // grel em
+
 
 
         // Haytararel int sum = 3, int a = 1, int b = 2,:
