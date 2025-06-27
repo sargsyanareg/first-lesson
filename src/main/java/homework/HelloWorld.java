@@ -1,4 +1,4 @@
-package lesson.first;
+package homework;
 
 public class HelloWorld {
     // psvm, sout,
